@@ -1,0 +1,10 @@
+# ninja log v5
+70	6118	8004566490688361	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	eb7290a4fb5b422
+49	6330	8004566492903138	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	af50874c589556dc
+39	6333	8004566492968668	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5383e780230ad349
+19	6467	8004566494233401	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	51f17621faf8608c
+4	6590	8004566495336776	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e6f64f81e52571f3
+79	7385	8004566501986990	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1b14007f7bf5d12f
+60	7503	8004566502940815	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2132f50f4dd207e3
+29	7587	8004566505348294	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	1d7b393099848c6b
+7589	7931	8004566508956738	E:/AR/AsteroidImpactAR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/251k5g1x/obj/arm64-v8a/libgame.so	89e6919607ab5f6b
